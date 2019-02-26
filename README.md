@@ -1,3 +1,4 @@
 # Repo2019
-i am mintu thampi
-its my repository
+I am mintu thampi
+Its my repository
+Created on 26\02\2019
